@@ -1,2 +1,2 @@
 # CyberSecurity
-My content stiduies during the CyberSecurity Course 
+My content studies during the CyberSecurity Course 
