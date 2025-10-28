@@ -34,9 +34,6 @@ Desenvolver a lógica de programação utilizando **Portugol**, praticando:
 
 - [Visualg Studio](https://visualg3.blogspot.com/) – Ambiente para escrever e executar algoritmos em Portugol.
 
-![Exemplo de código em Portugol](https://franciscochaves.com.br/blog/wp-content/uploads/2020/11/portugol-studio-exemplo.png)
-
----
 
 ## 📌 Como usar
 
