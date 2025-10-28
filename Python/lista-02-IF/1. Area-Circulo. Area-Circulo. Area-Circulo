@@ -1,0 +1,15 @@
+# Criado por: [Bruno Neemias Alves Mota]
+import math 
+
+#1. Solicita o raio do circulo
+raio = float(input("Digite o raio do circulo:"))
+
+#2.Certifica que o valor é positivo
+if raio < 0:
+    print("Erro: Valor digitado não é maior que 0!")
+else: 
+    area = math.pi*(raio**2)
+    print(f"A área do circulo é: {area:.2f}")
+
+
+    

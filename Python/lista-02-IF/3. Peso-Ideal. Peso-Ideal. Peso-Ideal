@@ -1,0 +1,18 @@
+#Criado por: [Bruno Neemias Alves Mota]
+
+#1. Solicita a altura e sexo
+altura = float(input("Digite a altura: "))
+sexo = (input("Digite o sexo [M/F]: "))
+
+#2. Valida se o caracter inserido para o sexo está correto e exibe o resultado na tela. 
+if ("F" != sexo != "M"): 
+    print("Erro: Sexo incorreto!") 
+else:  
+    if sexo == 'M': 
+        peso = (72.7*altura)-58 
+        print(f"O peso ideal para uma pessoa do sexo MASCULINO com altura de {altura:.2f} é {peso:.2f}kg")
+    else: 
+        peso = (62.1*altura)-44.7
+        print(f"O peso ideal para uma pessoa do sexo FEMININO om altura de {altura:.2f} é {peso:.2f}kg")
+    
+    
