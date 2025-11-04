@@ -1,4 +1,4 @@
-# 🍬 Lab 17.9.3 – Doceria SQL: Modelagem de Vendas e Clientes
+# 🍬 Doceria SQL: Modelagem de Vendas e Clientes
 
 Este laboratório propõe a criação de um modelo de banco de dados para uma doceria, com foco na organização de informações sobre clientes, doces e vendas. A atividade envolve a modelagem de entidades, atributos e relacionamentos, com base em um cenário real de comércio varejista.
 
