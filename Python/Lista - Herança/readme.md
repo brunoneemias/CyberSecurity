@@ -30,7 +30,7 @@ Este repositório contém 4 exercícios individuais de Programação Orientada a
    git clone https://github.com/brunoneemias/CyberSecurity/Lista - Herança.git
 2. Acesse a pasta: 
    ```bash
-   cd lista-heranca
+   cd ista - Herança
 3. Execute os arquivos com Python: 
    ```bash
     python POO_Heranca_Ingresso.py
