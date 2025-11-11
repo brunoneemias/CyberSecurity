@@ -27,7 +27,7 @@ Este repositório contém 4 exercícios individuais de Programação Orientada a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/lista-heranca.git
+   git clone https://github.com/brunoneemias/CyberSecurity/Lista - Herança.git
 2. Acesse a pasta: 
    ```bash
    cd lista-heranca
